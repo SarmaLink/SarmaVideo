@@ -1,0 +1,2 @@
+# use crontab -e as normal user to add the following
+@reboot sleep 300 && /usr/bin/cvlc v4l2:///dev/video0:standard=PAL --sout '#transcode{vcodec=mp4v}: rtp{sdp=rtsp://@:8554/}' &

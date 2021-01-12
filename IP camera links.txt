@@ -1,0 +1,2 @@
+Dahua
+http://addr.ip/cgi-bin/snapshot.cgi

@@ -6,4 +6,5 @@ TENVIS Technology Co.,Ltd. 2013  Ver 3.7.22
 http://addr.ip/snapshot.cgi
 http://addr.ip/media/?action=stream
 
-
+Hikvision
+http://192.168.199.16/ISAPI/Streaming/channels/101/picture

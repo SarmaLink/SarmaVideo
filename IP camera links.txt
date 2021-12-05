@@ -1,3 +1,9 @@
 Dahua
 http://addr.ip/cgi-bin/snapshot.cgi
 rtsp://addr.ip
+
+TENVIS Technology Co.,Ltd. 2013  Ver 3.7.22  
+http://addr.ip/snapshot.cgi
+http://addr.ip/media/?action=stream
+
+
